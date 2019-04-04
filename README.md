@@ -11,4 +11,4 @@ Redirect to workshop: [GitHub](https://github.com/nearform/developing-microservi
 
 Find Presetation [here](https://github.com/nearform/developing-microservices/blob/master/assets/presentation.pptx)
 
-## __Hope:__ This tutorial from NearForm will help you to create your microservices. Here all the steps are available and each step has its readme file.
+__Hope:__ This tutorial from NearForm will help you to create your microservices. Here all the steps are available and each step has its readme file.
